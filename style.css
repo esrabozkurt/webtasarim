@@ -1,0 +1,152 @@
+html{
+	background: url("tasarimWeb.jpg") no-repeat center center fixed;
+	background-size:100% 100%;
+	
+	
+}
+#menu ul{
+	list-style-type:none;
+	font-family:Arial, Sans-serif;
+	margin-left:200px;
+	
+}
+
+#menu{
+	background-color:#141414;
+	opacity:0.5;
+	width:100%;
+	height:60px;
+	margin:-8px;
+	font-weight:bold;
+	border-style:solid;
+	border-width:8px;
+	border-color:white;
+	border-radius:5px;
+}
+
+#logo{
+	width:50px;
+	height:40px;
+	margin:3px;
+}
+#navlist1 li{
+	float:left;
+	padding-top:5px;
+	padding-right:25px;
+	font-size:25px;
+}
+
+#navlist2 li{
+	float:left;
+	padding-top:5px;
+	padding-right:25px;
+	font-size:25px;
+
+}
+#arama{
+	position:absolute;
+	right:-80px;
+	margin-top:8px;
+}
+
+#navlist1{
+	position:absolute;
+	left:-100px;
+}
+#navlist2{
+	position:absolute;
+	left:750px;
+	
+}
+#logo{
+	position:absolute;
+	left:700px;
+	height:57px;
+	width:100px;
+}
+
+
+#container{
+	background-color:white;
+	opacity:0.6;
+	position:absolute;
+	margin:20px;
+	padding:50px;	
+	border-style:solid;
+	border-width:8px;
+	border-color:#395A45;
+	border-radius:45px;
+	left:920px;
+	width:250px;
+	
+	
+}
+#images{
+	width:430px;
+	height:350px;
+	margin:170px 50px 50px 50px;
+	
+	
+}
+#baslik{
+	font-family:Arial, Sans-serif;
+	font-size:50px;
+	position:absolute;
+	left:50px;
+	text-shadow:-2px 0 white, 0 2px white, 2px 0 white, 0 -2px white;
+}
+#altlik{
+	
+	background-color:grey;
+	position:relative;
+	height:60px;
+	margin-top:230px;
+	clear:both;
+}
+#navlist1 ul li a{
+	text-decoration:none;
+	color:white;
+}
+#navlist2 ul li a{
+	text-decoration:none;
+	color:white;
+}
+#twitter{
+	position:absolute;
+	width:30px;
+	height:30px;
+	right:70px;
+	bottom:0px;
+}
+#facebook{
+	position:absolute;
+	width:30px;
+	height:30px;
+	right:10px;
+	bottom:0px;
+}
+#instagram{
+	position:absolute;
+	width:30px;
+	height:30px;
+	right:40px;
+	bottom:0px;
+}
+#foto{
+	position:absolute;
+	width:60px;
+	height:40px;
+	left:10px;
+	bottom:10px;
+}
+#yazim ul li{
+	left:80px;
+	bottom:10px;
+	position:absolute;
+	list-style-type:none;
+	
+}
+#yazim ul li a{
+	text-decoration:none;
+	color:black;
+}
